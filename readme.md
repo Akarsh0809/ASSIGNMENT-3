@@ -1,2 +1,1 @@
-This the first branch.
-This branch has the basic working calculator with functions and tests. 
+This is the original branch. The basic functional calculator with tests and functions is available in this branch.
