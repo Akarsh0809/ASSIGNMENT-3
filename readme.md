@@ -1,2 +1,1 @@
-This is branch Part-2.
-This branch has an  Intermediate Calculator with static methods on Calculator class and instance methods on Calculation class to perform operations on the data in the calculation instance.
+Part 2 of the branch is this. An Intermediate Calculator with static methods on the Calculator class and instance methods on the Calculation class to manipulate the data in the calculation instance is available in this branch.
